@@ -10,8 +10,8 @@
 
 ### Teaching
 
-Certified The Carpentires instructor
+:hammer: Certified The Carpentires instructor
 
-Fellow of the Higher Education Adademy (FHEA)
+:mortar_board: Fellow of the Higher Education Adademy (FHEA)
 
 
