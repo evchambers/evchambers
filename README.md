@@ -1,6 +1,6 @@
 # Emily Chambers PhD
 
-:wave: I am a data analyst, bioinformatician and data analysis trainer currently working at the University of Sheffield.
+:wave: I am a data analyst, bioinformatician and data analysis instructor currently working at the University of Sheffield.
 
 ### Skills
  :bar_chart:  R - Tidyverse - Bioconductor - Shiny - ggplot2 - BASh - HPC
